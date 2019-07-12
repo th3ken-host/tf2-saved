@@ -1,0 +1,434 @@
+{
+    "Engineer": {
+        "Aimbot": {
+            "Aim key": {
+                "key": 16,
+                "mode": 1
+            },
+            "Auto sticky": 1,
+            "Backtrack": 1,
+            "Enable aimbot": 1,
+            "Enable airblast": 1,
+            "Fov": 180,
+            "Hitbox": 2,
+            "Lazy proj fov": 1,
+            "Lazy pyro primary": 1,
+            "Melee aim": 1,
+            "No scope": 1,
+            "No zoom": 1,
+            "Proj mode": 1,
+            "Range check": 1,
+            "Shoot key": {
+                "key": 16,
+                "mode": 1
+            },
+            "Shotgun range": 100,
+            "Silent": 0,
+            "Silent aim": 0,
+            "Smooting": 0,
+            "Sniper bodyshot if kill": 1,
+            "Wait for headshot": 1,
+            "Zoomed only": 1,
+            "ignore cloak": 1,
+            "ignore disguise": 1,
+            "ignore taunt": 1
+        },
+        "Color": {
+            "Ally": {
+                "color": 1258324735,
+                "def": true,
+                "rainbow": false
+            },
+            "Backtrack history": {
+                "color": -1,
+                "def": true,
+                "rainbow": true
+            },
+            "Backtrack tick": {
+                "color": 16711935,
+                "def": true,
+                "rainbow": false
+            },
+            "Blue": {
+                "color": 65535,
+                "def": true,
+                "rainbow": false
+            },
+            "Buildings": {
+                "color": -1,
+                "def": true,
+                "rainbow": false
+            },
+            "Cham color type": 0,
+            "Enemy": {
+                "color": -5963521,
+                "def": true,
+                "rainbow": false
+            },
+            "Fov circle": {
+                "color": -65281,
+                "def": true,
+                "rainbow": true
+            },
+            "Items": {
+                "color": 16711935,
+                "def": true,
+                "rainbow": false
+            },
+            "Red": {
+                "color": -16776961,
+                "def": true,
+                "rainbow": false
+            },
+            "Sky color": {
+                "color": -926365441,
+                "def": true,
+                "rainbow": true
+            },
+            "Target color": {
+                "color": -2143095553,
+                "def": true,
+                "rainbow": true
+            },
+            "World color": {
+                "color": -926365441,
+                "def": true,
+                "rainbow": true
+            },
+            "World/Sky color": 1
+        },
+        "Config": {
+            "Load based on class": 1
+        },
+        "ESP": {
+            "Backtrack cham": 1,
+            "Building cham": 1,
+            "Building text": 1,
+            "Cham material": 1,
+            "Enable ESP": 1,
+            "Enable chams": 1,
+            "Enemy only": 1,
+            "Fov circle": 1,
+            "Hands": 0,
+            "Item names": 1,
+            "No player items": 1,
+            "Object cham": 1,
+            "Out of fov esp": 1,
+            "Player cham": 1,
+            "Projectile cham": 1,
+            "Spectator list": 1,
+            "Target highlight": 1,
+            "ignore cloak": 1,
+            "ignore disguise": 0
+        },
+        "Misc": {
+            "200 ping for 400ms backtrack": -1,
+            "Added latency": 40,
+            "Auto strafe": 1,
+            "Bunny hop": 1,
+            "Edge jump": 0,
+            "Engine prediction": 0,
+            "Latency": 1,
+            "No push": 1,
+            "No visual recoil": 1,
+            "Ping difference": 10,
+            "or 800 ping for the 1 sec backtrack": -1
+        },
+        "Testing": {
+            "Draw scoped player": 1,
+            "Sv_cheat 1": 1,
+            "Thirdperson": {
+                "key": 84,
+                "mode": 0
+            }
+        }
+    },
+    "Heavy": {
+        "Aimbot": {
+            "Aim key": {
+                "key": 16,
+                "mode": 1
+            },
+            "Auto sticky": 1,
+            "Backtrack": 0,
+            "Enable aimbot": 1,
+            "Enable airblast": 1,
+            "Fov": 180,
+            "Hitbox": 2,
+            "Lazy proj fov": 1,
+            "Lazy pyro primary": 1,
+            "Melee aim": 1,
+            "No scope": 1,
+            "No zoom": 1,
+            "Proj mode": 0,
+            "Range check": 1,
+            "Shoot key": {
+                "key": 16,
+                "mode": 1
+            },
+            "Shotgun range": 1,
+            "Silent": 0,
+            "Silent aim": 0,
+            "Smooting": 0,
+            "Sniper bodyshot if kill": 1,
+            "Wait for headshot": 1,
+            "Zoomed only": 1,
+            "ignore cloak": 1,
+            "ignore disguise": 1,
+            "ignore taunt": 1
+        },
+        "Color": {
+            "Ally": {
+                "color": 1258324735,
+                "def": true,
+                "rainbow": false
+            },
+            "Backtrack history": {
+                "color": -1,
+                "def": true,
+                "rainbow": false
+            },
+            "Backtrack tick": {
+                "color": 16711935,
+                "def": true,
+                "rainbow": false
+            },
+            "Blue": {
+                "color": 65535,
+                "def": true,
+                "rainbow": false
+            },
+            "Buildings": {
+                "color": -1,
+                "def": true,
+                "rainbow": false
+            },
+            "Cham color type": 0,
+            "Enemy": {
+                "color": -5963521,
+                "def": true,
+                "rainbow": false
+            },
+            "Fov circle": {
+                "color": -65281,
+                "def": true,
+                "rainbow": true
+            },
+            "Items": {
+                "color": 16711935,
+                "def": true,
+                "rainbow": false
+            },
+            "Red": {
+                "color": -16776961,
+                "def": true,
+                "rainbow": false
+            },
+            "Sky color": {
+                "color": -926365441,
+                "def": true,
+                "rainbow": true
+            },
+            "Target color": {
+                "color": -2143095553,
+                "def": true,
+                "rainbow": false
+            },
+            "World color": {
+                "color": -926365441,
+                "def": true,
+                "rainbow": true
+            },
+            "World/Sky color": 1
+        },
+        "Config": {
+            "Load based on class": 1
+        },
+        "ESP": {
+            "Backtrack cham": 1,
+            "Building cham": 1,
+            "Building text": 1,
+            "Cham material": 0,
+            "Enable ESP": 1,
+            "Enable chams": 1,
+            "Enemy only": 0,
+            "Fov circle": 2,
+            "Hands": 0,
+            "Item names": 1,
+            "No player items": 0,
+            "Object cham": 1,
+            "Out of fov esp": 1,
+            "Player cham": 1,
+            "Projectile cham": 1,
+            "Spectator list": 1,
+            "Target highlight": 1,
+            "ignore cloak": 1,
+            "ignore disguise": 0
+        },
+        "Misc": {
+            "200 ping for 400ms backtrack": -1,
+            "Added latency": 40,
+            "Auto strafe": 1,
+            "Bunny hop": 1,
+            "Edge jump": 0,
+            "Engine prediction": 0,
+            "Latency": 1,
+            "No push": 1,
+            "No visual recoil": 1,
+            "Ping difference": 10,
+            "or 800 ping for the 1 sec backtrack": -1
+        },
+        "Testing": {
+            "Draw scoped player": 1,
+            "Sv_cheat 1": 1,
+            "Thirdperson": {
+                "key": 84,
+                "mode": 0
+            }
+        }
+    },
+    "general": {
+        "Aimbot": {
+            "Aim key": {
+                "key": 16,
+                "mode": 1
+            },
+            "Auto sticky": 1,
+            "Backtrack": 1,
+            "Enable aimbot": 1,
+            "Enable airblast": 1,
+            "Fov": 5,
+            "Hitbox": 1,
+            "Lazy proj fov": 1,
+            "Lazy pyro primary": 1,
+            "Melee aim": 1,
+            "No scope": 1,
+            "No zoom": 1,
+            "Proj mode": 1,
+            "Range check": 1,
+            "Shoot key": {
+                "key": 16,
+                "mode": 1
+            },
+            "Shotgun range": 26,
+            "Silent": 1,
+            "Silent aim": 1,
+            "Smooting": 0,
+            "Sniper bodyshot if kill": 1,
+            "Wait for headshot": 1,
+            "Zoomed only": 1,
+            "ignore cloak": 1,
+            "ignore disguise": 1,
+            "ignore taunt": 0
+        },
+        "Color": {
+            "Ally": {
+                "color": 1258324735,
+                "def": true,
+                "rainbow": false
+            },
+            "Backtrack history": {
+                "color": -1,
+                "def": true,
+                "rainbow": false
+            },
+            "Backtrack tick": {
+                "color": 16711935,
+                "def": true,
+                "rainbow": false
+            },
+            "Blue": {
+                "color": 65535,
+                "def": true,
+                "rainbow": false
+            },
+            "Buildings": {
+                "color": -1,
+                "def": true,
+                "rainbow": false
+            },
+            "Cham color type": 0,
+            "Enemy": {
+                "color": -5963521,
+                "def": true,
+                "rainbow": false
+            },
+            "Fov circle": {
+                "color": -65281,
+                "def": true,
+                "rainbow": true
+            },
+            "Items": {
+                "color": 16711935,
+                "def": true,
+                "rainbow": false
+            },
+            "Red": {
+                "color": -16776961,
+                "def": true,
+                "rainbow": false
+            },
+            "Sky color": {
+                "color": -926365441,
+                "def": true,
+                "rainbow": true
+            },
+            "Target color": {
+                "color": -2143095553,
+                "def": true,
+                "rainbow": false
+            },
+            "World color": {
+                "color": -926365441,
+                "def": true,
+                "rainbow": true
+            },
+            "World/Sky color": 1
+        },
+        "Config": {
+            "Load based on class": 1
+        },
+        "ESP": {
+            "Backtrack cham": 1,
+            "Building cham": 1,
+            "Building text": 1,
+            "Cham material": 0,
+            "Enable ESP": 1,
+            "Enable chams": 1,
+            "Enemy only": 0,
+            "Fov circle": 2,
+            "Hands": 0,
+            "Item names": 1,
+            "No player items": 0,
+            "Object cham": 1,
+            "Out of fov esp": 1,
+            "Player cham": 1,
+            "Projectile cham": 1,
+            "Spectator list": 1,
+            "Target highlight": 1,
+            "ignore cloak": 1,
+            "ignore disguise": 0
+        },
+        "Misc": {
+            "200 ping for 400ms backtrack": -1,
+            "Added latency": 40,
+            "Auto strafe": 1,
+            "Bunny hop": 1,
+            "Edge jump": 0,
+            "Engine prediction": 0,
+            "Latency": 1,
+            "No push": 1,
+            "No visual recoil": 1,
+            "Ping difference": 10,
+            "or 800 ping for the 1 sec backtrack": -1
+        },
+        "Testing": {
+            "Draw scoped player": 1,
+            "Sv_cheat 1": 1,
+            "Thirdperson": {
+                "key": 84,
+                "mode": 0
+            }
+        }
+    }
+}
